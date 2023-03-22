@@ -11,3 +11,5 @@ Possible painting names and sizes:
 ```
 
 Just like that, a resource pack will be generated. This works for Minecraft version 1.19.4
+
+NOTE: usage is intended to change throughout development. The current interface sucks.
